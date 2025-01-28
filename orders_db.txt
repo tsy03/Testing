@@ -1,0 +1,18 @@
+1183934113
+Customer Name: max
+Total Price:RM6.00
+Preparing
+Soda ,1.50
+Soda ,1.50
+Soda ,1.50
+Soda ,1.50
+
+1868738662
+Customer Name: max
+Total Price:RM40.00
+Completed
+Pizza ,8.00
+Pizza ,8.00
+Pizza ,8.00
+Pizza ,8.00
+Pizza ,8.00

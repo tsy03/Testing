@@ -1,0 +1,5 @@
+1: Burger RM5.00
+2: Fries RM2.50
+3: Soda RM1.50
+4: Pizza RM8.00
+5: Salad RM4.00
